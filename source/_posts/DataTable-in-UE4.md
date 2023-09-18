@@ -1,11 +1,11 @@
 ---
-title: UE4中的数据表
+title: 虚幻引擎中的数据表
 date: 2023-09-09 15:38:57
 tags: 
-  - Unreal Engine
+  - 虚幻引擎
   - 数据表
 categories:
-  - Unreal Engine
+  - 虚幻引擎
 ---
 
 - UE版本: 4.27.2, 系统: Windows
