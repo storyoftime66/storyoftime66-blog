@@ -57,7 +57,7 @@ post:
   # The default is the `date_format` and `time_format` fields in the hexo configuration file (_config.yml)
   date_format: # YYYY-MM-DD HH:mm:ss
   copyright:
-    enable: true
+    enable: false
     # The default is the `title` fields in the hexo configuration file (_config.yml)
     title:
     # The default is the `author` fields in the hexo configuration file (_config.yml)
