@@ -62,14 +62,6 @@ virtual void BeginDestroy() override; // virtual void RemoveFromParent();
 
 # 控件的属性
 
-## 用户控件的变量属性
-
-运行时创建用户控件
-事件初始化时，公开变量（生成时公开）未赋值
-
-预先放置的用户控件
-事件初始化时，公开变量（可编辑实例）已赋值
-
 ## 可视性
 
 可视性 | 是否绘制 | 是否影响布局 | 是否可点击
