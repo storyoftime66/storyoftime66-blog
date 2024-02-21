@@ -1,6 +1,6 @@
-favicon: https://avatars.githubusercontent.com/u/37776197
+favicon: https://avatars.githubusercontent.com/u/37776197?s=96&v=4
 logo:
-  html: <img src="https://avatars.githubusercontent.com/u/37776197" />
+  html: <img src="https://avatars.githubusercontent.com/u/37776197?s=96&v=4" />
   style:
     width: auto
     height: 4rem
@@ -51,7 +51,7 @@ wordcount:
 # article
 post:
   # author avatar
-  avatar: https://avatars.githubusercontent.com/u/37776197
+  avatar: https://avatars.githubusercontent.com/u/37776197?s=96&v=4
   # article abstract
   abstract: 200
   # The default is the `date_format` and `time_format` fields in the hexo configuration file (_config.yml)
