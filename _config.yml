@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: storyoftime66's blog
+title: Huzhou's blog
 subtitle: ''
 description: ''
 keywords:
-author: storyoftime66
+author: Huzhou
 language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://storyoftime66.github.io
+url: http://www.huzhou66.cc
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

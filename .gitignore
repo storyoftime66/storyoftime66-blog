@@ -3,3 +3,4 @@ node_modules/
 # Hexo
 .deploy_git/
 public/
+db.json
