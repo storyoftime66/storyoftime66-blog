@@ -7,5 +7,5 @@ npm install
 git clone https://github.com/Lete114/Hexo-Theme-MengD.git  ./themes/hexo-theme-mengd
 ```
 
-## 修改颜色
+## 修改主题颜色
 .\themes\hexo-theme-mengd\source\css\_partial\color.styl
