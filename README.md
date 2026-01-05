@@ -3,7 +3,7 @@
 ```bash
 # 安装依赖和主题
 npm install
-git clone https://github.com/Lete114/Hexo-Theme-MengD.git  ./themes/hexo-theme-mengd、
+git clone https://github.com/Lete114/Hexo-Theme-MengD.git  ./themes/hexo-theme-mengd
 
 # 本地调试
 hexo server
