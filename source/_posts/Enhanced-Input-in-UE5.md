@@ -8,7 +8,8 @@ categories:
   - 虚幻引擎
 ---
 
-# 核心概念
+## 核心概念
+
 1. **InputAction 输入动作，以下简称`IA`**
     输入动作是一个抽象的概念，比如在游戏中，开门、拾取、射击都可以作为一个输入动作。
 2. **InputMappingContext 输入映射上下文，以下简称`IMC`**
@@ -22,9 +23,10 @@ categories:
 
 5. Trigger 触发器
 
-# Lyra输入系统
+## Lyra输入系统
 
 封装对应关系以及职能：
+
 ```
 FMappableConfigPair -> UPlayerMappableInputConfig
 
